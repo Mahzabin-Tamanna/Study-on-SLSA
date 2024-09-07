@@ -1,0 +1,51 @@
+﻿Topic,Keywords,Label final,Broader Groups
+0,requirement provenance key sign user digital_signature signing signature explicitly attestation,Attestation,Provenance
+1,tool generate exist extension publish provenance sbom free end framework,Workflow,Workflow
+2,workflow call material reusable generic argument dry_run close tool tool_reusable_workflow,Workflow,Attestation
+3,project create tool work support generate_provenance plugin publish deploy fork,Workflow,Version control
+4,response logo create slack troubleshooting discussion read search open confirm,Terminology,Defect management
+5,release add test builder update generic generator support doc workflow,Version control,Two-party Review
+6,provenance workflow build run artifact user release input file output,Provenance,Terminology
+7,verification verifier verify command provenance package option registry package_name tarball,Attestation,Documentation
+8,file blog_post translate dist backend need_update deprecate find locale package\_name,Documentation,Pertinence
+9,provenance record set include context variable token environment_variable event field,Provenance,
+10,scorecard check detect release score find day stale open badge,Workflow,
+11,dependency cache hermetic fetch hash artifact hermetic_build process network_access immutable_reference,Version control,
+12,builder build_service require scripted_build third_party evidence file attestation certify memory,Attestation,
+13,tag release version verifier action run pin update branch hash,Version control,
+14,builder provenance generator source verify repo spec verification workflow report,Attestation,
+15,define definition diagram term comment add terminology component artifact page,Terminology,
+16,aqua enable package file directory asset remove tool command checksum,Workflow,
+17,attestation format provenance toto file predicate type generate move datum,Attestation,
+18,user admin dependency use_workflow release_process feasible guarantee term love api,Version control,
+19,commit change review merge require person requirement branch author history,Two-party Review,
+20,controller sha host_go_containerregistry json log add subject size http body_redact_omit_binary,Workflow,
+21,field provenance add attestation use_case type spec predicate digest case,Provenance,
+22,release version update change fix break tag stable bump major,Version control,
+23,project good security openssf dependency add software create code improve,Pertinence,
+24,key sign verify signature verification sigstore signing entry rekor root,Attestation,
+25,make work thing change user case good give point add,Documentation,
+26,package dependency build library source distribution version binary code sbom,Version control,
+27,organization system build_system trust level consumer company provide meet producer,Pertinence,
+28,requirement level discus include good spec link great track agree,Documentation,
+29,describe feature solution add relate context problem alternative additional request,Documentation,
+30,yml update index match comment ignore url pointer point host,Version control,
+31,workflow run test main add check repo file script pre__submit,Workflow,
+32,base package information verifier encode collect attestation create api configure,Attestation,
+33,process document review comment repo project community blog proposal license,Documentation,
+34,attack threat attacker malicious model risk prevent task detect compromise,Pertinence,
+35,image provide docker file work transparent_release builder_image docker_image material commit,Workflow,
+36,token permission secret workflow support input relate set access event,Workflow,
+37,action repo code builder workflow repos create repository call upload,Workflow,
+38,image container provenance attestation support verification generate verify cosign registry,Attestation,
+39,error fail fix bug expect reproduce behavior run step work,Defect management,
+40,source provenance attestation builder material recipe case list con property,Provenance,
+41,builder parameter field verifier provenance user unique e.g spec builder.id,Workflow,
+42,target directory resolve root expectation find bazel rename interface config,Version control,
+43,datum query api create interface request node information implement service,Version control,
+44,support builder multiple close subject call build comment sha tarball,Workflow,
+45,policy provenance artifact package require resource publish check apply thing,Provenance,
+46,build requirement trust provenance system service definition build_system require platform,Workflow,
+47,link page add work fix doc update move site find,Documentation,
+48,level artifact build source attestation make claim source_code trust verify,Attestation,
+49,reproducible_build verify binary compromise verify_reproducible_build explain reproducibility app system timestamp,Workflow,

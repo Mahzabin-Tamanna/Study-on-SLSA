@@ -1,0 +1,20 @@
+﻿ Sub-themes,Description
+Complicated Provenance Generation,"How to model a build and represent it in provenance, requiring new releases for unchanged source code.Some projects hesitate to adopt experimental cosign keyless signing due to external infrastructure dependencies"
+Intricate Maintainance ,"Ostaclesin using  and maintaining ""slsa-github-generator"" and “slsa-github-verification” tools"
+Ambigious Terminlogy,"Ambiguous, inconsistent, and sometimes undefined"
+Unclear Documentation,SLSA verification installation instructions is not clear. Lack of specific documentation outlining best practices and guidelines for developing compatible tools with SLSA
+Limited Attestation Verification,Needs for dedicated tooling to sign and verify artifacts during the deployment step
+Two-party review Requirement ,"Costs, single maintainer projects, how do automated review (robots)/ pair programming fit into this requirement"
+Unclear Relevance ,How SLSA would have protected against an attack/ aids and so on. How it's different from other frameworks
+,
+,
+Codes,Description
+Complex Provenance,"Challenges and difficulties in generating and maintaining accurate provenance information, which details the origins and history of software components"
+Challenges in Workflow,"Issues related to adapting existing development workflows to incorporate SLSA requirements, including potential disruptions and the need for significant process changes."
+Difficulties Attestation," Difficulties in creating and managing attestations, which are statements or proofs verifying certain attributes of the software."
+Version Control Problems,"Problems and challenges in aligning version control practices with SLSA requirements, including ensuring thorough tracking and documentation of changes."
+Defect Management problems,"Challenges in managing software defects or bugs within the SLSA framework, including ensuring timely and secure resolution."
+Lacks in Documentaion ,"Difficulties in understaning, navigating, and utilizing SLSA documentation."
+Confusing Terminology,Challenges related to the use and understanding of specific terms and definitions within the SLSA framework
+Unable to achieve Two-party Review,Issues and obstacles in implementing  and fulfilling SLSA a two-party requirement
+How SLSA is Pertinence,Challenges in determining the relevance and applicability of SLSA practices to the specific context and needs of the organization.
